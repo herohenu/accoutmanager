@@ -12,7 +12,7 @@ require 'mina/rvm'    # for rvm support. (http://rvm.io)
 
 set :domain, '192.168.1.5'
 set :deploy_to, '/home/git/deploy'
-set :repository, 'git@fitark.org:saturn/prometheus.git'
+set :repository, 'git@fitark.org:leiyinghao/am.git'
 set :branch, 'master'
 set :term_mode, :system
 # Manually create these paths in shared/ (eg: shared/config/database.yml) in your server.
