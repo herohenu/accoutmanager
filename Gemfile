@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source 'http://mirrors.tuna.tsinghua.edu.cn/rubygems/'
 
 gem "rails", "3.2.11"
 gem "sqlite3"
