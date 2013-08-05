@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: http://mirrors.tuna.tsinghua.edu.cn/rubygems/
   specs:
     actionmailer (3.2.11)
       actionpack (= 3.2.11)
@@ -123,6 +123,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails
   ffaker
+  rack
   rails (= 3.2.11)
   rspec-rails
   sass-rails
