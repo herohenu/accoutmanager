@@ -12,3 +12,7 @@ How to run it:
 * rake db:seed # will populate the database with several user records
 * rails server
 * And finally navigate to http://localhost:3000
+
+
+
+origin	https://github.com/lucassus/extjs4-account-manager.git 
